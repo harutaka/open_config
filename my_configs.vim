@@ -21,7 +21,7 @@ let g:multi_cursor_start_word_key = '<C-d>'
 let g:multi_cursor_start_key = 'g<C-d>'
 let g:multi_cursor_next_key = '<C-d>'
 
-" 半ページ下にスクロールキーをCtrl+kに変更する(マルチカーソルの置き換え)
+" 半ページ下にスクロールキーをCtrl+nに変更する(マルチカーソルの置き換え)
 nnoremap <C-n> <C-d>
 
 " ファイルを開いたときにデフォルトで折りたたむレベル(実質折りたたまない)
